@@ -16,7 +16,7 @@ time.sleep(3)
 pyautogui.click(x=883, y=375)
 pyautogui.write('diogokglms@hotmail.com')
 pyautogui.press('tab')
-pyautogui.write('Ra06ra02')
+pyautogui.write('yyyyyy')
 pyautogui.press('tab')
 pyautogui.press('enter')
 
